@@ -1,0 +1,42 @@
+{
+    "image1": {
+        "data": "hwQLAAsAAAAAAPAAAAAAAAAA/wAAAAAAAPD/AAAAAAAA//8AAAAAAPD/////DwAA//////8PAADw/////w8AAAD//wAAAAAAAPD/AAAAAAAAAP8AAAAAAAAA8AAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Straight"
+    },
+    "image4": {
+        "data": "hwQQABAAAAD///8AAAAAAP///wAAAAAA//8PAAAAAAD//wAAAAAA////DwAAAPD///D/AADw/w8PAP//////AAAA8P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spin-7"
+    },
+    "image5": {
+        "data": "hwQUABAAAAD///8AAAAAAP///wAAAAAA//8PAAAAAAD//wAAAAAA////DwAAAPD///D/AADw/w8PAP//////AAAA8P///wAAAAAAAAAAAAD///8AAAAAAP///wAAAAAA//8PAAAAAAD//wAAAAAA////DwAAAPD///D/AADw/w8PAP//////AAAA8P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spin-14"
+    },
+    "image6": {
+        "data": "hwQaABAAAAD///8AAAAAAP///wAAAAAA//8PAAAAAAD//wAAAAAA////DwAAAPD///D/AADw/w8PAP//////AAAA8P///wAAAAAAAAAAAAD///8AAAAAAP///wAAAAAA//8PAAAAAAD//wAAAAAA////DwAAAPD///D/AADw/w8PAP//////AAAA8P///wAAAAAAAAAAAAD///8AAAAAAP///wAAAAAA//8PAAAAAAD//wAAAAAA////DwAAAPD///D/AADw/w8PAP//////AAAA8P///wAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spin-21"
+    },
+    "image7": {
+        "data": "hwQaABAAAAAAAPD///8AAA8A//////8A//D/AADw/w///w8AAADw////AAAAAAD///8PAAAAAAD///8AAAAAAP///wAAAAAAAAAAAAAAAAAAAPD///8AAA8A//////8A//D/AADw/w///w8AAADw////AAAAAAD///8PAAAAAAD///8AAAAAAP///wAAAAAAAAAAAAAAAAAAAPD///8AAA8A//////8A//D/AADw/w///w8AAADw////AAAAAAD///8PAAAAAAD///8AAAAAAP///wAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spin21"
+    },
+    "image3": {
+        "data": "hwQUABAAAAAAAPD///8AAA8A//////8A//D/AADw/w///w8AAADw////AAAAAAD///8PAAAAAAD///8AAAAAAP///wAAAAAAAAAAAAAAAAAAAPD///8AAA8A//////8A//D/AADw/w///w8AAADw////AAAAAAD///8PAAAAAAD///8AAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spin14"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAPD///8AAA8A//////8A//D/AADw/w///w8AAADw////AAAAAAD///8PAAAAAAD///8AAAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spin7"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
